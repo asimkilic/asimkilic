@@ -53,20 +53,18 @@ My goal and dream is to be a successful Full Stack Developer. I am currently tra
         <img src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white' />
     </a>
      <a href=''>
-        <img src=' https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white' />
+        <img src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white' />
     </a> 
      <a href=''>
         <img src='https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white' />
     </a>
      <a href=''>
-        <img src='   https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white' />
+        <img src='https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white' />
     </a> 
      <a href=''>
         <img src='https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white' />
     </a>
-      <a href='https://medium.com/@a.asim.kilic' target="_blank">
-        <img src='https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white' />
-    </a>
+      
    
 </p>
 
@@ -96,5 +94,8 @@ My goal and dream is to be a successful Full Stack Developer. I am currently tra
     </a>
     <a href="https://www.instagram.com/ofn2nvu">
         <img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='instagram' height='30'>
+    </a>
+    <a href='https://medium.com/@a.asim.kilic' target="_blank">
+        <img src='https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white' />
     </a>
 </p>
