@@ -76,7 +76,7 @@ My goal and dream is to be a successful Full Stack Developer. I am currently tra
         <img src='https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white' />
     </a>
          <a href=''>
-        <img src=' https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white' />
+        <img src='https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white' />
     </a>
     
 </p>
