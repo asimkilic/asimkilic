@@ -1,4 +1,5 @@
-# Hi, I'm Abdullah Asım KILIÇ 👋  :comoros:  
+# Hi, I'm Abdullah Asım KILIÇ 👋 
 ![](https://raw.githubusercontent.com/asimkilic/asimkilic/main/pictures/Knowledge-is-power.jpg)
 
-I graduated in  CIS. :dart:.  Occasionally, i sneak around web development :earth_africa: and a bit of designing.
+I graduated in  CIS. My mottos are  "Whatever you do, do it with code" and "Lead the world with code".
+
