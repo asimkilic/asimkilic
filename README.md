@@ -81,7 +81,7 @@ My goal and dream is to be a successful Full Stack Developer. I am currently tra
     
 </p>
 
-![Snake Eating away my contributions](https://github.com/faouziMohamed/asimkilic/blob/output/github-contribution-grid-snake.gif)
+![Snake Eating away my contributions](https://github.com/asimkilic/asimkilic/blob/output/github-contribution-grid-snake.gif)
 
 
 <h2 align='right'> Social </h2>
