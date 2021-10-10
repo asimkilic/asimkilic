@@ -40,9 +40,10 @@ My goal and dream is to be a successful Full Stack Developer. I am currently tra
       <img src="https://github-readme-stats.vercel.app/api?username=asimkilic&theme=dark&show_icons=true&&cache_seconds=1900&count_private=true" alt="GitHub stats" height="190" >  
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asimkilic&theme=dark&layout=compact&langs_count=8" alt="Top Langs" heigth="190">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asimkilic&theme=dark&layout=compact&langs_count=10" alt="Top Langs" heigth="190">
     </a>
 </p>
+
 ## I'm trying to learn
 <p align="left">
    <a href=''>
@@ -71,6 +72,7 @@ My goal and dream is to be a successful Full Stack Developer. I am currently tra
 
 <!-- Im interested in-->
 ## I'm interested in
+
 <p align="left">
       <a href=''>
         <img src='https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white' />
