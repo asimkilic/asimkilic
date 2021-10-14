@@ -95,7 +95,7 @@ My goal and dream is to be a successful Full Stack Developer. I am currently tra
     <a href="https://www.instagram.com/ofn2nvu">
         <img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='instagram' height='30'>
     </a>
-    <a href='https://medium.com/@a.asim.kilic' target="_blank">
+    <a href='https://a-asim-kilic.medium.com/' target="_blank">
         <img src='https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white' />
     </a>
 </p>
