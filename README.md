@@ -106,5 +106,5 @@ My goal and dream is to be a successful Full Stack Developer. I am currently tra
         <img src='https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white' />
     </a>
 </p>
-<img src='https://profile-counter.glitch.me/asimkilic/count.svg' />
+
                                                                                                              
