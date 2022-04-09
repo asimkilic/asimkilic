@@ -35,15 +35,13 @@ My goal and dream is to be a successful Full Stack Developer. I am currently tra
     </a>
        <a href=''>
         <img src='http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=fff' />
-    </a>
-     
+    </a>     
     <a href=''>
         <img src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white' />
     </a>
      <a href=''>
         <img src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white' />
-    </a> 
-   
+    </a>    
      <a href=''>
         <img src='https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white' />
     </a> 
