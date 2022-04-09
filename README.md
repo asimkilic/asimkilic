@@ -56,7 +56,7 @@ My goal and dream is to be a successful Full Stack Developer. I am currently tra
     <img height="120" width="140" src="https://github.com/muhiqsimui/muhiqsimui/raw/main/assets/right.png">
   </a>
 </p>
-<p align="left">
+<p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api?username=asimkilic&theme=dark&show_icons=true&&cache_seconds=1900&count_private=true" alt="GitHub stats" height="190" >  
     </a>
