@@ -8,6 +8,9 @@ My goal and dream is to be a successful Full Stack Developer. I am currently tra
 ## Tech | Tools | Stats
 
 <p align='left'>
+     <a href=''>
+        <img src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white' />
+    </a> 
     <a href=''>
         <img src='https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white' />
     </a>
@@ -33,7 +36,20 @@ My goal and dream is to be a successful Full Stack Developer. I am currently tra
        <a href=''>
         <img src='http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=fff' />
     </a>
-    
+     
+    <a href=''>
+        <img src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white' />
+    </a>
+     <a href=''>
+        <img src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white' />
+    </a> 
+   
+     <a href=''>
+        <img src='https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white' />
+    </a> 
+     <a href=''>
+        <img src='https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white' />
+    </a>
 </p>
 <p align="center">
   <a>
@@ -51,29 +67,7 @@ My goal and dream is to be a successful Full Stack Developer. I am currently tra
     </a>
 </p>
 
-## I'm trying to learn
-<p align="left">
-   <a href=''>
-        <img src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white' />
-    </a>   
-    <a href=''>
-        <img src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white' />
-    </a>
-     <a href=''>
-        <img src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white' />
-    </a> 
-     <a href=''>
-        <img src='https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white' />
-    </a>
-     <a href=''>
-        <img src='https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white' />
-    </a> 
-     <a href=''>
-        <img src='https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white' />
-    </a>
-      
-   
-</p>
+
 
 <!-- Im interested in-->
 ## I'm interested in
